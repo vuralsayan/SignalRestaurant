@@ -38,6 +38,23 @@ $ add-migration & update database
 ---
 
 ## Görseller
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/1.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/2.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/3.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/4.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/5.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/6.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/7.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/8.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/9.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/10.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/11.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/12.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/13.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/14.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/15.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/16.png)
+![](https://raw.githubusercontent.com/vuralsayan/SignalRestaurant/master/Images/17.png)
 
 
  
