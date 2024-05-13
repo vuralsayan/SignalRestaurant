@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+@* MENU INDEX *@
+
+<div class="sub_page">
+    <div class="hero_area">
+        <div class="bg-box">
+            <img src="~/feane-1.0.0/images/hero-bg.jpg" alt="">
+        </div>
+        <vc:_default-navbar-component-partial />
+    </div>
+    <br /><br />
+    <vc:_default-our-menu-component-partial />
+
+    <script>
+        function showproductid(value) {
+            var id = value;
+            $.ajax({
+                type: 'post',
+                data: { item: id },
+                url: '/Menu/AddBasket/' + id,
+                contentType: 'json',
+                success: function () {
+                    Swal.fire({
+                        title: "Seçilen Ürün ID:" + id,
+                        text: "Seçtiğiniz Ürün Sepete Eklendi" ,
+                        icon: "success"
+                    });
+                }
+            });
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</div>
+
